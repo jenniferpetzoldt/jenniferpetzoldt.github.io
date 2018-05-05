@@ -1,78 +1,43 @@
 body {font-family: 'Open Sans Condensed', sans-serif;
 font-family: 'News Cycle', sans-serif;
-  font-weight: 200;
+  font-weight: 200px;
 text-align: left;
+  background: "lavender";
 }
-
-header {
-  font: 
-  padding: 20px 0;
-}
-header. row
-footer.row {
-  display: flex;
-  align-items: center;
+#pic {
+  float: right;
 }
 
 #container {
-
+  width: 800px;
+  margin: 40px auto 60px;
 }
+
 #contact {
-
+margin: 0 0 16px 0;
+  padding: 0 0 16px 0;
+  font-size: 42px;
+  font-weight: bold;
+  letter-spacing: -2px;
+  border-bottom: 1px solid #999;
 }
 
-#contact-info {
-  
-}
-
-#resume-body {
-  
-}
 
 #resume-summary {
-  
+  margin: 0 0 16px 0;
+	padding: 0 0 32px 0;
+
+	font-style: italic;
+	font-size: 20px;
 }
 
-#resume-eductaion {
-  
+.dat4e {
+  float: right;
 }
 
-#education-header {
-  
+h3 {
+  boarder-bottom: 1px solid #999;
 }
-
-#degree {
-  
-}
-
-#block-date {
-
-}
-
-#date {
-  
-}
-
-#school-location {
-  
-}
-
-#resume-professional {
-  
-}
-
-#professional-header {
-  
-}
-
-#content-MAC {
-  
-}
-
-#list-content {
-  
-}
-
-#content-bridge {
-  
-}
+h4 {
+  margin-top: 0px;
+  margin-bottom: 0px;
