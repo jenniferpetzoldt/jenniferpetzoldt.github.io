@@ -1,7 +1,6 @@
-body {font-family: 'Open Sans Condensed', sans-serif;
-font-family: 'News Cycle', sans-serif;
+body {
+	font: 20px 'Open Sans Condensed', Sans-Serif;
   font-weight: 200px;
-text-align: left;
   background: "lavender";
 }
 #pic {
@@ -31,11 +30,12 @@ margin: 0 0 16px 0;
 	font-size: 20px;
 }
 
-.dat4e {
+.date {
   float: right;
 }
 
 h3 {
+	font-weight: italic;
   boarder-bottom: 1px solid #999;
 }
 h4 {
