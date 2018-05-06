@@ -18,7 +18,7 @@ body {
 	margin: 0 0 16px 0;
   	padding: 0 0 8px 0;
   	font-size: 42px;
-  	font-weight: bold;
+  	font-style: bold;
   	letter-spacing: -2px;
 }
 
@@ -46,8 +46,8 @@ body {
 }
 
 #degree {
-	font-size: 30px;
-	font-weight: italic;
+	font-size: 25px;
+	font-style: italic;
 	margin: 0 0 16px 0;
   	padding: 0 0 8px 0;
 }
