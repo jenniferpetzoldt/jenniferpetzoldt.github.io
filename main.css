@@ -3,6 +3,7 @@ body {
   	font-weight: 200px;
   	background: url(pink.jpg);
 }
+
 #pic {
   	float: right;
 	border-radius: 12px;
@@ -36,7 +37,7 @@ body {
 
 .date {
   	float: right;
-	font: 20px;
+	font-size: 20px;
 }
 
 #header {
