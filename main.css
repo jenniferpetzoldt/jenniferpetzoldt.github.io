@@ -32,7 +32,6 @@ body {
 	padding: 0 0 32px 0;
 	font-style: italic;
 	font-size: 20px;
-	border-bottom: 1px solid #999;
 }
 
 .date {
@@ -50,19 +49,19 @@ body {
 	font-size: 30px;
 	font-weight: italic;
 	margin: 0 0 16px 0;
-  	padding: 0 0 16px 0;
+  	padding: 0 0 8px 0;
 }
 
 #content {
 	align: left;
 	margin: 0 0 16px 0;
-  	padding: 0 0 16px 0;
+  	padding: 0 0 8px 0;
 }
 
 #list-content {
 	font-size: 20px;
 	margin: 0 0 16px 0;
-  	padding: 0 0 16px 0;
+  	padding: 0 0 8px 0;
 }
 h3 {
 	font-size: 30px;
