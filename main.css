@@ -16,7 +16,7 @@ body {
 
 #contact {
 	margin: 0 0 16px 0;
-  	padding: 0 0 16px 0;
+  	padding: 0 0 8px 0;
   	font-size: 42px;
   	font-weight: bold;
   	letter-spacing: -2px;
@@ -24,7 +24,7 @@ body {
 
 .p {
 	margin: 0 0 16px 0;
-  	padding: 0 0 16px 0;
+  	padding: 0 0 8px 0;
 	font-size: 20px;
 }
 #resume-summary {
