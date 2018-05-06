@@ -21,8 +21,10 @@ margin: 0 0 16px 0;
   letter-spacing: -2px;
 }
 
-#contact-info {
-	
+.p {
+	margin: 0 0 16px 0;
+  	padding: 0 0 16px 0;
+	font-size: 20px;
 }
 #resume-summary {
   	margin: 0 0 16px 0;
@@ -39,11 +41,31 @@ margin: 0 0 16px 0;
 #header {
 	font-size: 30px;
 	font-weight: bold;
-	
+}
 
-h3 {
+#degree {
+	font-size: 30px;
 	font-weight: italic;
+	margin: 0 0 16px 0;
+  	padding: 0 0 16px 0;
+}
+
+#content {
+	align: left;
+	margin: 0 0 16px 0;
+  	padding: 0 0 16px 0;
+}
+
+#list-content {
+	font-size: 20px;
+	margin: 0 0 16px 0;
+  	padding: 0 0 16px 0;
+}
+h3 {
+	font-size: 30px;
 }
 h4 {
+	font-size: 25px;
   margin-top: 0px;
   margin-bottom: 0px;
+}
