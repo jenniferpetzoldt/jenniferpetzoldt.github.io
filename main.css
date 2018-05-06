@@ -4,8 +4,7 @@ body {
   background: url(sand.png);
 }
 #pic {
-  float: right;
-  padding-right: 40px;
+  	float: right;
 	boarder radius: 25px;
 	box-shadow: 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
