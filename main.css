@@ -40,7 +40,7 @@ body {
 .date {
   	float: right;
 	font-size: 20px;
-	font-style: normal;
+	font-style: bold;
 }
 
 #header {
@@ -52,14 +52,14 @@ body {
 }
 
 #degree {
-	font-size: 25px;
+	font-size: 20px;
 	font-style: italic;
 	margin: 0 0 4px 0;
   	padding: 8px 0 0 0;
 }
 
 #location {
-	font-size: 20px;
+	font-size: 18px;
 	font-style: italic;
 	margin: 0 0 4px 0;
 	padding: 0 0 8px 0;
@@ -82,7 +82,5 @@ h3 {
 }
 
 h4 {
-	font-size: 25px;
-  	margin-top: 0px;
-  	margin-bottom: 0px;
+	font-size: 20px;
 }
