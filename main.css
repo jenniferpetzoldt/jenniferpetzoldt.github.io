@@ -65,7 +65,7 @@ body {
 }
 
 #content {
-	align: left;
+	text-align: left;
 	font-size: 20px;
 	font-style: normal;
 	margin: 0 0 16px 0;
